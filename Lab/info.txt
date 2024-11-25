@@ -1,0 +1,22 @@
+KT9bNYiAsN4tcrvTNsKg_kea2WB5U9N0
+
+docker run -e ALCHE_API="KT9bNYiAsN4tcrvTNsKg_kea2WB5U9N0" -it defi-mooc-lab2 npm test
+
+
+
+docker run -e ALCHE_API="https://eth-mainnet.alchemyapi.io/v2/KT9bNYiAsN4tcrvTNsKg_kea2WB5U9N0" -it defi-mooc-lab2 npm test
+
+docker build -t defi-mooc-lab2 .
+
+
+address private constant LENDING_POOL =
+        0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9;
+address private constant TARGET_USER =
+        0x59CE4a2AC5bC3f5F225439B2993b86B42f6d3e9F;
+
+uint256 flashAmountInUSDT = 2916378221684  -------- Profit 24
+uint256 flashAmountInUSDT = 1400000000000  -------- Profit 42.11
+uint256 flashAmountInUSDT = 1500000000000  -------- Profit 42.96
+uint256 flashAmountInUSDT = 1600000000000  -------- Profit 43.53
+
+
