@@ -4,7 +4,7 @@ This repository contains coursework from **CS194: Special Topics in Decentralize
 
 ## Contents:
 
-- **Labs**: Hands-on assignments focused on implementing and analyzing DeFi protocols, blockchain technologies, and smart contracts.
+- **Lab**: Hands-on assignments focused on implementing and analyzing DeFi protocols, blockchain technologies, and smart contracts.
 
 ## Key Concepts Covered:
 
@@ -17,7 +17,7 @@ This repository contains coursework from **CS194: Special Topics in Decentralize
 
 ## How to Navigate:
 
-- **Labs**: All lab assignments are located under the `Lab/` directory. These assignments focus on practical applications of DeFi concepts, including blockchain development and smart contract deployment.
+- **Lab**: All lab assignments are located under the `Lab/` directory. These assignments focus on practical applications of DeFi concepts, including blockchain development and smart contract deployment.
 
 
 Explore the coursework to see how decentralized financial systems are designed, implemented, and analyzed using blockchain technology and cryptographic principles. This repository showcases my practical and theoretical understanding of decentralized finance and its transformative potential in modern financial systems.
